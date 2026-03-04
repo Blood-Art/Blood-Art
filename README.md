@@ -1,16 +1,34 @@
-## Hi there 👋
+<h1 align="center"> Enjoy some tea ☕ </h1>
 
-<!--
-**Blood-Art/Blood-Art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> Hello. 👋 </h3>
 
-Here are some ideas to get you started:
+I am @Blood (**Fahad**), or you can call me whatever you like. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+MIS major university student, mostly self-taught and obsessed with Tech and Programming 💻.
+
+My goals are:
+- 🐍 Mastering **Python** with its extensive libraries (Very interested and actively learning about AI/Machine Learning).
+- ⚡ Learning some **C++** or **Rust** for their incredible performance.
+- 🤝 Collaborating and gaining expertise with other developers by making interesting projects.
+
+I am aware of the complexities of this path, but I still love to challenge myself and improve at what I do.
+<br>
+Lastly, I've got huge respect for the open-source community, and always love to contribute to them. 
+
+You will find me mostly on Discord: **`.bloodart`**
+
+<div align="center">
+  
+<br>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+<br>
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+  
+</div>
