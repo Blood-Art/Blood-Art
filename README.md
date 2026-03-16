@@ -1,6 +1,4 @@
-<h1 align="center"> Enjoy some tea ☕ </h1>
-
-<h3> Hello. 👋 </h3>
+<h3> Hello. ☕ </h3>
 
 I am @Blood (**Fahad**), or you can call me whatever you like. 
 
