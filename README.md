@@ -10,14 +10,13 @@ My goals are:
 - 🤝 Collaborating and gaining expertise with other developers by making interesting projects.
 
 I am aware of the complexities of this path, but I still love to challenge myself and improve at what I do.
-<br>
+<div>
 Lastly, I've got huge respect for the open-source community, and always love to contribute to them. 
 
 You will find me mostly on Discord: **`.bloodart`**
+</div>
 
 <div align="center">
-  
-<br>
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
