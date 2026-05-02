@@ -1,5 +1,6 @@
 <h3> Hello. ☕ </h3>
 
+<div>
 I am @Blood (**Fahad**), or you can call me whatever you like. 
 
 MIS major university student, mostly self-taught and obsessed with Tech and Programming 💻.
@@ -10,6 +11,8 @@ My goals are:
 - 🤝 Collaborating and gaining expertise with other developers by making interesting projects.
 
 I am aware of the complexities of this path, but I still love to challenge myself and improve at what I do.
+</div>
+
 <div>
 Lastly, I've got huge respect for the open-source community, and always love to contribute to them. 
 
