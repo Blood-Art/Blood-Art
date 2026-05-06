@@ -2,7 +2,6 @@
 
 <div>
 MIS major university student, mostly self-taught and obsessed with Tech, Programming, and Gaming.
-I
 
 You will find me mostly on Discord: **`.bloodart`**
 </div>
