@@ -1,20 +1,8 @@
-<h3> Hello. ☕ </h3>
+<h3> About Me </h3>
 
 <div>
-I am @Blood (**Fahad**), or you can call me whatever you like. 
-
-MIS major university student, mostly self-taught and obsessed with Tech and Programming 💻.
-
-My goals are:
-- 🐍 Mastering **Python** with its extensive libraries (Very interested and actively learning about AI/Machine Learning).
-- ⚡ Learning some **C++** or **Rust** for their incredible performance.
-- 🤝 Collaborating and gaining expertise with other developers by making interesting projects.
-
-I am aware of the complexities of this path, but I still love to challenge myself and improve at what I do.
-</div>
-
-<div>
-Lastly, I've got huge respect for the open-source community, and always love to contribute to them. 
+MIS major university student, mostly self-taught and obsessed with Tech, Programming, and Gaming.
+I
 
 You will find me mostly on Discord: **`.bloodart`**
 </div>
