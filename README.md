@@ -1,7 +1,7 @@
 <h3 align="center"> About Me ☕ </h3>
 
 <div>
-<p>MIS major university student, mostly self-taught and obsessed with Technology, Computers, Programming, and Games.
+<p> Self-taught and obsessed with Technology, Computers, Programming, and Games.
 <br>
 I Love building stuff, understanding why and how things work, collabrating with other developers, sharing knowledge and contributing to open-source software.</p>
 </div>
