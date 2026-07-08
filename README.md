@@ -7,14 +7,13 @@ I Love building stuff, understanding why and how things work, collabrating with 
 </div>
 <p>
  
-You will find me mostly on Discord: **`.bloodart`** or email ( hopefully )
+You will find me mostly on Discord: **`.bloodart`**, Matrix: **`Blood-Art`** or email ( hopefully )
 </p>
 
 <div align="center">
 <br>
  
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
