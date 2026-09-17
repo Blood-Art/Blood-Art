@@ -7,7 +7,7 @@ I Love building stuff, understanding why and how things work, collabrating with 
 </div>
 <p>
  
-You will find me mostly on Discord: **`.bloodart`**, Matrix: **`Blood-Art`** or email ( hopefully )
+You will find me mostly on Discord: **`.bloodart`** or email ( hopefully )
 </p>
 
 <div align="center">
