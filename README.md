@@ -1,8 +1,8 @@
 <h3 align="center"> About Me ☕ </h3>
 
-<div>
+<div align="center">
 <p> Self-taught and obsessed with Technology, Computers, Programming, and Games. </p>
-
+</div>
 <div align="center">
 <br>
  
