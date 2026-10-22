@@ -1,14 +1,7 @@
 <h3 align="center"> About Me ☕ </h3>
 
 <div>
-<p> Self-taught and obsessed with Technology, Computers, Programming, and Games.
-<br>
-I Love building stuff, understanding why and how things work, collabrating with other developers, sharing knowledge and contributing to open-source software.</p>
-</div>
-<p>
- 
-You will find me mostly on Discord: **`.bloodart`** or email ( hopefully )
-</p>
+<p> Self-taught and obsessed with Technology, Computers, Programming, and Games. </p>
 
 <div align="center">
 <br>
